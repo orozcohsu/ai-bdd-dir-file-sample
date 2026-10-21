@@ -94,3 +94,14 @@ Gherkin 必須經 Human Reviewer 核准後，才能作為 AI Test Engineer 與 A
 4. 業務規則變更應優先更新 `business-rules.md`。
 5. 技術或視覺設計變更應優先更新 `technical-spec.md`。
 6. 若功能變更影響已核准的 Gherkin，必須重新進行 G1 審核。
+
+---
+
+## 第五章：核准紀錄
+
+- **核准角色：** Human Reviewer
+- **核准狀態：** Approved
+- **核准版本：** 1.0
+- **核准日期：** 2026-10-21
+
+---
